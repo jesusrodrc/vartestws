@@ -8,7 +8,6 @@ import org.apache.hadoop.hbase.client.Result;
 import org.apache.hadoop.hbase.filter.CompareFilter;
 import org.apache.hadoop.hbase.filter.QualifierFilter;
 import org.apache.hadoop.hbase.filter.RegexStringComparator;
-import org.opencb.variant.lib.core.hbase.VariantFieldsProtos;
 
 import java.io.IOException;
 
